@@ -4,5 +4,6 @@
 <style lang="scss">
 	h1 {
 		color: tomato;
+		font-size: functions.toRem(36);
 	}
 </style>
